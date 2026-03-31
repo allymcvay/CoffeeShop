@@ -28,3 +28,6 @@ Payments are recorded in the Payment entity, which stores the payment method, am
 Finally, the Merchandise entity represents retail items sold in stores, such as mugs or apparel. Merchandise is tied to specific store locations, so we included a one‑to‑many relationship between Store and Merchandise.
 
 Overall, this data model captures the full operational flow of Jittery Joe’s—from customers placing orders, to inventory being supplied, to payments being processed—while maintaining clear relational structure that supports meaningful business insights.
+
+<img width="1244" height="1258" alt="image" src="https://github.com/user-attachments/assets/766829d7-abb6-4aea-b3d0-2e9c8f1b2ccc" />
+
