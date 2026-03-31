@@ -1,7 +1,7 @@
 # Team 7 Mist 4610 Group Project 1
 
 ## Team Name:
-  Group 7
+ 21479 Group 7
   
 ## Group Member
   1. Ally McVay
