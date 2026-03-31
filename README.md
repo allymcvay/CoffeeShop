@@ -46,3 +46,7 @@ This query pulls information from the SupplierItem and Suppliers tables to show 
 
 4. Find customers who don’t have a rewards account
 This query identifies customers who are not enrolled in the loyalty program by checking for customers without a corresponding record in the Loyalty table. It can be used for marketing outreach or to encourage more customers to join the rewards program.
+
+## Assumption
+
+“LoyaltyID is stored redundantly to preserve the customer’s loyalty tier at the time of the order/payment, since loyalty status can change over time.”
