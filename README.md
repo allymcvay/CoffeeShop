@@ -6,7 +6,7 @@
 ## Group Member
   1. Ally McVay
   2. Sydney Pratt  scp31975/Jiterry-Joe-s-
-  3. Casey Whichard  https://github.com/caseywhichard/Jittery-Joes
+  3. Casey Whichard  https://github.com/caseywhichard/Team-7-MIST-4610-Group-Project-1
   4. Mino Guzman
      
 ## Problem Description
