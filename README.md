@@ -29,7 +29,7 @@ Finally, the Merchandise entity represents retail items sold in stores, such as 
 
 Overall, this data model captures the full operational flow of Jittery Joe’s—from customers placing orders, to inventory being supplied, to payments being processed—while maintaining clear relational structure that supports meaningful business insights.
 
-<img width="630" height="647" alt="Screenshot 2026-03-31 at 9 22 30 AM" src="https://github.com/user-attachments/assets/ceacd400-f304-4877-87fe-13aad68d3b28" />
+<img width="641" height="647" alt="Screenshot 2026-03-31 at 9 31 34 AM" src="https://github.com/user-attachments/assets/03afe27d-a25b-4341-b278-34fab233a74d" />
 
 
 ## Data Dictionary 
