@@ -5,9 +5,10 @@
   
 ## Group Member
   1. Ally McVay
-  2. Sydney Pratt  scp31975/Jiterry-Joe-s-
+  2. Sydney Pratt  [scp31975/Jiterry-Joe-s-](https://github.com/scp31975/Jiterry-Joe-s-
+
   3. Casey Whichard  https://github.com/caseywhichard/Team-7-MIST-4610-Group-Project-1
-  4. Mino Guzman
+  4. Mino Guzman https://github.com/Mino-Guzman/JitteryJoes
      
 ## Problem Description
 The goal of this project is to design and build a relational database that represents the core operations of Jittery Joe’s, a multi‑location coffee shop. The Store serves as the central entity, connecting employees, inventory, equipment, customers, and daily transactions. The database models how each store manages menu items, merchandise, suppliers, loyalty programs, and customer orders.
