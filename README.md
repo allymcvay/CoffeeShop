@@ -5,8 +5,7 @@
   
 ## Group Member
   1. Ally McVay
-  2. Sydney Pratt  [scp31975/Jiterry-Joe-s-](https://github.com/scp31975/Jiterry-Joe-s-
-
+  2. Sydney Pratt  https://github.com/scp31975/Jiterry-Joe-s-
   3. Casey Whichard  https://github.com/caseywhichard/Team-7-MIST-4610-Group-Project-1
   4. Mino Guzman https://github.com/Mino-Guzman/JitteryJoes
      
